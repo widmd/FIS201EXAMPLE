@@ -1,0 +1,16 @@
+body{
+    font-family: "Comic Sans MS";
+}
+
+h1{
+    font-family: "Comic Sans MS";
+}
+
+.customFont{
+    font-family: "Comic Sans MS" !important;
+}
+
+h2 {
+    color: navy;
+    background-color: antiquewhite;
+}
